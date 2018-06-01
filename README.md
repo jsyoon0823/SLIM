@@ -17,3 +17,6 @@
 
 5. Calibration_Plot.py
 - Visualize Calibration of ML Models
+
+6. Coefficient_Heatmap.py
+- Compute coefficient of each risk strate to visualize Heatmaps
